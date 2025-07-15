@@ -43,19 +43,16 @@ Recently graduated engineer in computer engineering, specialized in Full-Stack d
 ## 🔭 Projects
 
 ### [OKR Management Platform with AI Integration](https://github.com/JihedeMedini/OKR_PROJECT)
-Development and integration of AI conversational agents using Microsoft Semantic Kernel with Azure OpenAI and DeepSeek models. Implementation of real-time feedback system using SignalR.
+Development and integration of AI conversational agents using Microsoft Semantic Kernel with Azure OpenAI and DeepSeek models. Implementation of real-time feedback and notification system using SignalR for collaborative features.
 
 ### [Web Application for Recruitment Management](https://github.com/JihedeMedini/RecruitmentManagement)
-Design and development of APIs for a recruitment management application with Angular frontend and .NET backend.
+Design and development of APIs for a recruitment management application with Angular frontend and .NET backend. Implementation of web scraping functionality to gather recruitment data.
 
 ### [Student Absence System](https://github.com/JihedeMedini/StudentAbsenceSystem)
-Design and implementation using Angular frontend and Spring Boot backend with Clean Architecture principles.
+Design and implementation using Angular frontend and Spring Boot backend with Clean Architecture principles. Development of session security with JWT and automated notification system.
 
 ### [MyPortfolio](https://github.com/JihedeMedini/MyPortfolio)
 Personal portfolio website showcasing my projects and skills.
-
-### [PizzaStoreDemo](https://github.com/JihedeMedini/PizzaStoreDemo)
-A full-stack e-commerce application for a pizza delivery service.
 
 ## 🎓 Education
 
@@ -68,7 +65,7 @@ Sept 2022 - present | Charguia II, Tunisia
 Sept 2019 - June 2022 | Tunis, Tunisia
 
 ## 🏆 Certifications
-- AWS Cloud Practitioner Certification
+- [AWS Cloud Practitioner Certification](https://www.credly.com/badges/52efaabd-3588-4af8-a372-4bc937cedd81/public_url)
 - TOEIC (B2 Level)
 
 ## 🌐 Languages
@@ -78,10 +75,15 @@ Sept 2019 - June 2022 | Tunis, Tunisia
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jihed-medini)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jihed-medini/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jihede.medini@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://your-portfolio-url.com)
-[![Phone](https://img.shields.io/badge/-+216%2053%20522%20921-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+21653522921)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://jihedmedini.vercel.app/)
+[![Phone](https://img.shields.io/badge/-+216%2093%20522%20921-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+21693522921)
+
+## 💡 Interests
+- Problem Solving
+- Football
+- Swimming
 
 ## 📊 GitHub Stats
 
