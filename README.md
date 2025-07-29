@@ -23,6 +23,8 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> About Me</b>
 
+<div align="center">
+
 ```javascript
 const jihed = {
     name: "Jihed MEDINI",
@@ -35,7 +37,7 @@ const jihed = {
     ],
     specialization: [
         "LLM Orchestration",
-        "Vector Databases",
+        "Vector Databases", 
         "Prompt Engineering",
         "Conversational AI"
     ],
@@ -45,6 +47,8 @@ const jihed = {
     interests: ["Problem Solving", "Football", "Swimming"]
 };
 ```
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -95,96 +99,24 @@ const jihed = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>Professional Experience & Projects</b>
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<b>GitHub Analytics</b>
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🤖 OKR Management Platform with AI Integration</h3>
-        <div align="center">  
-          <a href="https://github.com/JihedeMedini/OKR_PROJECT" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=JihedeMedini&repo=OKR_PROJECT&theme=tokyonight&hide_border=true" />
-          </a>
-          <br/>
-          <br/>
-          <p>
-            <img src="https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Semantic%20Kernel-512BD4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=openai&logoColor=white"/>
-          </p>
-          <p><strong>End of Studies Internship at Naxxum (Feb 2025 - Jun 2025)</strong></p>
-          <p>AI orchestration system with Microsoft Semantic Kernel, vector memory persistence with Qdrant, and real-time feedback using SignalR.</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">💼 Recruitment Management System</h3>
-        <div align="center">
-          <a href="https://github.com/JihedeMedini/RecruitmentManagement" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=JihedeMedini&repo=RecruitmentManagement&theme=tokyonight&hide_border=true" />
-          </a>
-          <br/>
-          <br/>
-          <p>
-            <img src="https://img.shields.io/badge/.NET%206-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-            <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-          </p>
-          <p><strong>End of Studies Project at Naxxum (Feb 2022 - May 2022)</strong></p>
-          <p>API development with web scraping functionality and comprehensive unit testing using xUnit.net.</p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">📚 Student Absence System</h3>
-        <div align="center">
-          <a href="https://github.com/JihedeMedini/StudentAbsenceSystem" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=JihedeMedini&repo=StudentAbsenceSystem&theme=tokyonight&hide_border=true" />
-          </a>
-          <br/>
-          <br/>
-          <p>
-            <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-            <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>
-          </p>
-          <p><strong>Academic Project (Mar 2024 - Apr 2024)</strong></p>
-          <p>Clean Architecture implementation with JWT security, AOP for logging, and automated notification system using JavaMail.</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">🌟 Personal Portfolio</h3>
-        <div align="center">
-          <a href="https://github.com/JihedeMedini/MyPortfolio" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=JihedeMedini&repo=MyPortfolio&theme=tokyonight&hide_border=true" />
-          </a>
-          <br/>
-          <br/>
-          <p>
-            <img src="https://img.shields.io/badge/Modern%20Web-FF6B6B?style=for-the-badge&logo=web&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white"/>
-          </p>
-          <p><strong>Professional Portfolio Website</strong></p>
-          <p>Showcase of projects, skills, and professional experience in AI and full-stack development.</p>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JihedeMedini&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JihedeMedini&theme=tokyonight&hide_border=true" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<b>GitHub Stats</b>
+<br/>
 
 <div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=JihedeMedini&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=JihedeMedini&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JihedeMedini&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JihedeMedini&theme=tokyonight" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JihedeMedini&layout=compact&theme=tokyonight&hide_border=true" />
-  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JihedeMedini&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JihedeMedini&theme=tokyo-night&hide_border=true&area=true" width="98%" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -194,11 +126,23 @@ const jihed = {
 <div align="center">
 
 ### 🎓 Education
-**National Engineering School of Carthage - ENICarthage**  
-*Engineering cycle in computer engineering* | Sep 2022 - Jul 2025 | Charguia II, Tunisia
-
-**Higher Institute of Arts and Multimedia Manouba - ISAMM**  
-*Bachelor in Computer Science: Data Analysis and Big Data* | Sep 2019 - Jun 2022 | Tunis, Tunisia
+<table align="center">
+  <tr>
+    <td align="center"><strong>Institution</strong></td>
+    <td align="center"><strong>Degree</strong></td>
+    <td align="center"><strong>Duration</strong></td>
+  </tr>
+  <tr>
+    <td>National Engineering School of Carthage</td>
+    <td>Engineering in Computer Engineering</td>
+    <td>Sep 2022 - Jul 2025</td>
+  </tr>
+  <tr>
+    <td>Higher Institute of Arts and Multimedia Manouba</td>
+    <td>Bachelor in Computer Science</td>
+    <td>Sep 2019 - Jun 2022</td>
+  </tr>
+</table>
 
 ### 🌐 Languages
 ![Arabic](https://img.shields.io/badge/Arabic-Native-4CAF50?style=for-the-badge)
