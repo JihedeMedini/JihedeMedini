@@ -1,95 +1,206 @@
-# 👋 Hi, I'm Jihed MEDINI
+<div align="center">
+  <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jihed%20MEDINI&fontSize=90&fontAlign=70&fontAlignY=40&fontColor=ffffff&desc=Full-Stack%20Engineer%20%7C%20AI%20Enthusiast&descAlign=70&descAlignY=60&descSize=25" />
+</div>
 
-## 💼 Full-Stack Engineer - AI Enthusiast
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Clean+Code+Advocate" alt="Typing Animation" />
+</div>
 
-Recently graduated engineer in computer engineering, specialized in Full-Stack development and the integration of conversational agents using Semantic Kernel.
+<br/>
 
-## 🚀 Skills
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white)](https://jihedmedini.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jihed-medini/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jihede.medini@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+21693522921)
 
-### Programming Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+</div>
 
-### Frontend Development
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Backend Development
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+<br/>
 
-### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> About Me</b>
 
-### DevOps & Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Azure OpenAI](https://img.shields.io/badge/-Azure%20OpenAI-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![SignalR](https://img.shields.io/badge/-SignalR-512BD4?style=flat-square&logo=.net&logoColor=white)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
+```javascript
+const jihed = {
+    location: "Tunis, Tunisia 🇹🇳",
+    currentFocus: "Full-Stack Development & AI Integration",
+    education: [
+        "🎓 Engineering in Computer Engineering - ENICarthage",
+        "🎓 Bachelor in Computer Science - ISAMM"
+    ],
+    specialization: "Conversational AI with Microsoft Semantic Kernel",
+    workingOn: "OKR Management Platform with AI Integration",
+    interests: ["Web Development", "AI/ML", "Clean Architecture", "Problem Solving"],
+    askMeAbout: ["Angular", ".NET", "Spring Boot", "Azure OpenAI", "SignalR"],
+    funFact: "I love turning complex problems into elegant solutions! ⚡"
+};
+```
 
-## 🔭 Projects
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### [OKR Management Platform with AI Integration](https://github.com/JihedeMedini/OKR_PROJECT)
-Development and integration of AI conversational agents using Microsoft Semantic Kernel with Azure OpenAI and DeepSeek models. Implementation of real-time feedback and notification system using SignalR for collaborative features.
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Tech Stack </b>
 
-### [Web Application for Recruitment Management](https://github.com/JihedeMedini/RecruitmentManagement)
-Design and development of APIs for a recruitment management application with Angular frontend and .NET backend. Implementation of web scraping functionality to gather recruitment data.
+<div align="center">
 
-### [Student Absence System](https://github.com/JihedeMedini/StudentAbsenceSystem)
-Design and implementation using Angular frontend and Spring Boot backend with Clean Architecture principles. Development of session security with JWT and automated notification system.
+### 👨‍💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,js,ts,java,py,c,cpp" />
+</p>
 
-### [MyPortfolio](https://github.com/JihedeMedini/MyPortfolio)
-Personal portfolio website showcasing my projects and skills.
+### 🎨 Frontend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap" />
+</p>
 
-## 🎓 Education
+### ⚙️ Backend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,spring,nodejs,express" />
+</p>
 
-**National Engineering School of Carthage - ENICarthage**  
-*Engineering cycle in computer engineering*  
-Sept 2022 - present | Charguia II, Tunisia
+### 🗄️ Databases & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,azure" />
+</p>
 
-**Higher Institute of Arts and Multimedia Manouba - ISAMM**  
-*Bachelor in Computer Science: Data Analysis and Big Data*  
-Sept 2019 - June 2022 | Tunis, Tunisia
+### 🛠️ Tools & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,vscode,visualstudio,postman" />
+</p>
 
-## 🏆 Certifications
-- [AWS Cloud Practitioner Certification](https://www.credly.com/badges/52efaabd-3588-4af8-a372-4bc937cedd81/public_url)
-- TOEIC (B2 Level)
+</div>
 
-## 🌐 Languages
-- Arabic: Native (C2)
-- English: Intermediate (B2)
-- French: Intermediate (B2)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📫 Connect With Me
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>Featured Projects</b>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jihed-medini/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jihede.medini@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://jihedmedini.vercel.app/)
-[![Phone](https://img.shields.io/badge/-+216%2093%20522%20921-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+21693522921)
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🤖 OKR Management Platform with AI</h3>
+        <div align="center">  
+          <a href="https://github.com/JihedeMedini/OKR_PROJECT" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=JihedeMedini&repo=OKR_PROJECT&theme=tokyonight&hide_border=true" />
+          </a>
+          <br/>
+          <br/>
+          <p>
+            <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+          </p>
+          <p><strong>AI-powered OKR platform using Microsoft Semantic Kernel with real-time collaboration features.</strong></p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">💼 Recruitment Management System</h3>
+        <div align="center">
+          <a href="https://github.com/JihedeMedini/RecruitmentManagement" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=JihedeMedini&repo=RecruitmentManagement&theme=tokyonight&hide_border=true" />
+          </a>
+          <br/>
+          <br/>
+          <p>
+            <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+            <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+          </p>
+          <p><strong>Full-stack recruitment platform with web scraping and API development.</strong></p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">📚 Student Absence System</h3>
+        <div align="center">
+          <a href="https://github.com/JihedeMedini/StudentAbsenceSystem" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=JihedeMedini&repo=StudentAbsenceSystem&theme=tokyonight&hide_border=true" />
+          </a>
+          <br/>
+          <br/>
+          <p>
+            <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+            <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>
+          </p>
+          <p><strong>Clean Architecture implementation with JWT security and automated notifications.</strong></p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🌟 Personal Portfolio</h3>
+        <div align="center">
+          <a href="https://github.com/JihedeMedini/MyPortfolio" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=JihedeMedini&repo=MyPortfolio&theme=tokyonight&hide_border=true" />
+          </a>
+          <br/>
+          <br/>
+          <p>
+            <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+            <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+          </p>
+          <p><strong>Modern portfolio website showcasing projects and technical skills.</strong></p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-## 💡 Interests
-- Problem Solving
-- Football
-- Swimming
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<b>Git Stats</b>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JihedeMedini&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JihedeMedini&layout=compact&theme=radical)
+<div align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=JihedeMedini&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=JihedeMedini&theme=tokyonight&hide_border=true" />
+</div>
 
----
+<div align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JihedeMedini&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JihedeMedini&theme=tokyonight" />
+</div>
 
-⭐️ From [JihedeMedini](https://github.com/JihedeMedini) 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/40/external-readme-is-a-easy-to-build-a-developer-hub-that-adapts-to-the-user-logo-duo-tal-revivo.png"/> **Certifications & Languages**
+
+<div align="center">
+
+### 🏆 Certifications
+[![AWS](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/52efaabd-3588-4af8-a372-4bc937cedd81/public_url)
+![TOEIC](https://img.shields.io/badge/TOEIC%20B2-0052CC?style=for-the-badge&logo=language&logoColor=white)
+
+### 🌐 Languages
+![Arabic](https://img.shields.io/badge/Arabic-Native%20(C2)-4CAF50?style=for-the-badge)
+![English](https://img.shields.io/badge/English-Intermediate%20(B2)-2196F3?style=for-the-badge)
+![French](https://img.shields.io/badge/French-Intermediate%20(B2)-FF9800?style=for-the-badge)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Let's Connect**
+
+<div align="center">
+  <a href="https://jihedmedini.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/jihed-medini/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:jihede.medini@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=60&fontAlign=50&fontAlignY=65&fontColor=ffffff" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=JihedeMedini&style=for-the-badge&color=brightgreen" alt="Profile Views" />
+</div> 
